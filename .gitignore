@@ -1,0 +1,28 @@
+## .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.userosscache
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## IDE
+.idea/
+*.rsuser
+
+## OS
+Thumbs.db
+.DS_Store
+
+## Secrets (never commit)
+appsettings.*.local.json
+*.pfx
