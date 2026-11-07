@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="TreasuryLab.Domain/TreasuryLab.Domain.csproj" Id="eacc23bf-3a44-49b2-b608-49132cd23c68" />
   <Project Path="TreasuryLab/TreasuryLab.csproj" />
 </Solution>
